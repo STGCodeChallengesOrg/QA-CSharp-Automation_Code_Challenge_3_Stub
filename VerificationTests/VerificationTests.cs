@@ -8,7 +8,7 @@ using QA_CSharp_Automation_Code_Challenge_3_Stub;
 namespace VerificationTests
 {
     [TestClass]
-    public class UnitTest1
+    public class VerificationTests
     {
             public IWebDriver driver;
             ChromeDriverService service;
