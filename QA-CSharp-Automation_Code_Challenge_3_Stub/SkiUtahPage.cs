@@ -12,8 +12,7 @@ namespace QA_CSharp_Automation_Code_Challenge_3_Stub
     public class SkiUtahPage
     {
         IWebDriver driver;
-        public List<IWebElement> mainMenuItems;
-        public List<IWebElement> subMenuItems;
+
         #region Constructors
         public SkiUtahPage(IWebDriver Driver)
         {
